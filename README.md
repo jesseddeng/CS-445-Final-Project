@@ -1,4 +1,4 @@
-# CS-445-Final-Project/Underwater Picture Correction
+# CS-445-Final-Project / Underwater Photo Correction
 ## Introduction
 Using algorithm from Paralenz to correct the color underwater in Python.
 
