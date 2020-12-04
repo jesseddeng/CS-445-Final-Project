@@ -10,7 +10,7 @@ It implement 3 ways to run the algorithm:
 2. Numpy
 3. Cupy
 
-Just change the path of the picture here:
+Just change the path of the picture each block here:
 ```python
 im1 = 'Data/3.jpg'
 ```
